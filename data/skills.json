@@ -1,0 +1,18 @@
+[
+  {
+    "grouping":"Languages",
+    "skills":[ "Python","Rust","Bash","Java","C","C++","C#","R","HTML/CSS","JavaScript","PHP","Lua" ]
+  },
+  {
+    "grouping":"Operating Systems & Tools",
+    "skills":[ "Linux","Git","MySQL","Docker" ]
+  },
+  {
+      "grouping":"Architecture",
+    "skills":[ "RESTful APIs","CI/CD","MVVM" ]
+  },
+  {
+    "grouping":"Mathematics",
+    "skills":[ "Statistics","Linear algebra","Machine learning" ]
+  }
+]

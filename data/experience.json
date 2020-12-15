@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Software Engineer",
+        "company":"Bluebox",
+        "summary":"Embedded programming in Rust for an IoT dashcam device",
+        "range":"March 2020 - Nov 2020"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"Personal Robotics Lab",
+        "summary":"Applied computer vision to robotic perception tasks",
+        "range":"February 2019 - March 2020"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"Pervasive Computing REU @ Temple University",
+        "summary":"Developed methodologies for measuring the generality of facial forgery detection models",
+        "range":"June 2019 - August 2019"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"Autonomous Flight Systems Laboratory",
+        "summary":"Assisted in research related to drones, and managed a team of seven developers for a data organization application using C# and .NET",
+        "range":"August 2017 - January 2019"
+    },
+    {
+        "role":"Instructor",
+        "company":"iD Tech Camps",
+        "summary":"Taught machine learning (image classification and reinforced learning) to teenagers",
+        "range":"August 2017 - January 2019"
+    }
+]
