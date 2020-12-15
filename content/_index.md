@@ -8,4 +8,4 @@ outputs:
 - rss
 - json
 ---
-<!-- About information here -->
+Enjoys complex problem solving and producing beautiful, maintainable, and extendable code.
