@@ -1,7 +1,7 @@
 {
   "title": "Automated Content Aggregator and Video Renderer for Reddit",
   "link": "https://github.com/jcbrockschmidt/rvidmaker",
-  "image": "img/rvidmaker.png",
+  "image": "/resume/img/rvidmaker.png",
   "description": "Creates videos from content found on Reddit and posts them to YouTube",
   "tags": ["Web Scraping", "Video Processing", "Python", "Linux", "Cloud", "RESTful APIs"],
   "fact": "",

@@ -1,7 +1,7 @@
 ---
 title: "Improved Profanity Filter"
 link: "https://github.com/snguyenthanh/better_profanity/pull/17"
-image: "img/profanity-filter.png"
+image: "/resume/img/profanity-filter.png"
 description: "Redesigned searching data-structure to be more memory efficient"
 featured: true
 tags: ["Python", "Optimization"]
