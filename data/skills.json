@@ -1,18 +1,22 @@
 [
   {
     "grouping":"Languages",
-    "skills":[ "Python","Rust","Bash","Java","C","C++","C#","R","HTML/CSS","JavaScript","PHP","Lua" ]
+    "skills":[ "Python","Rust","Bash","Java","C","C++","C#","R","HTML/CSS","JavaScript","PHP","Lua","LaTeX" ]
   },
   {
     "grouping":"Operating Systems & Tools",
-    "skills":[ "Linux","Git","MySQL","Docker" ]
+    "skills":[ "Linux","Git","MySQL","Docker","Apache","NGINX","CUDA","PyTorch","Tensorflow" ]
   },
   {
-      "grouping":"Architecture",
-    "skills":[ "RESTful APIs","CI/CD","MVVM" ]
+    "grouping":"Frameworks",
+    "skills":[ "CI/CD",".NET","RESTful APIs","MVVM","MVC" ]
   },
   {
     "grouping":"Mathematics",
     "skills":[ "Statistics","Linear algebra","Machine learning" ]
+  },
+  {
+    "grouping":"Soft Skills",
+    "skills":[ "Agile development","Teaching" ]
   }
 ]
