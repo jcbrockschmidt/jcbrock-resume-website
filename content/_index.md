@@ -8,4 +8,4 @@ outputs:
 - rss
 - json
 ---
-Enjoys complex problem solving and producing beautiful, maintainable, and extendable code.
+Lifelong self-learner who enjoys complex problem solving and producing beautiful, well-documented, and maintainable code.
