@@ -10,6 +10,8 @@ DIR=$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")
 # Load configuration
 . "$DIR/deploy.config"
 
+echo "Deploying to ${user}@${host}:${dest}..."
+
 # Deploy website
 cd "$DIR/.."
 hugo && rsync -avz --delete public/ ${user}@${host}:${dest}
