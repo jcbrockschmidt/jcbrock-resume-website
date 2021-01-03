@@ -5,11 +5,19 @@
   },
   {
     "grouping":"Operating Systems & Tools",
-    "skills":[ "Linux","Git","MySQL","Docker","Apache","NGINX","CUDA","PyTorch","Tensorflow" ]
+    "skills":[ "Linux","Windows","Git","MySQL",".NET","Jira","ROS", "CUDA","PyTorch","Tensorflow","Apache","NGINX" ]
   },
   {
-    "grouping":"Frameworks",
-    "skills":[ "CI/CD",".NET","RESTful APIs","MVVM","MVC" ]
+    "grouping":"Virtualization",
+    "skills":[ "Docker","VirtualBox","VMware","KVM","QEMU" ]
+  },
+  {
+    "grouping":"Embedded",
+    "skills":[ "Raspberry Pi","Arduino","Forlinx" ]
+  },
+  {
+    "grouping":"Methodologies",
+    "skills":[ "CI/CD","RESTful APIs","MVVM","MVC" ]
   },
   {
     "grouping":"Mathematics",
@@ -17,6 +25,6 @@
   },
   {
     "grouping":"Soft Skills",
-    "skills":[ "Agile development","Teaching" ]
+    "skills":[ "Agile development","Scrum development","Teaching" ]
   }
 ]
