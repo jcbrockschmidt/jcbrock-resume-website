@@ -5,7 +5,7 @@ date_to: "2019-12-01"
 pubtype: "Extended Abstract"
 featured: true
 description: "Poster presentation at Queer in AI affinity workshop at NeurIPS 2019<br>Extended abstract at REUNS 2019"
-tags: ["Machine Learning", "Computer Vision", "Deepfakes", "Python", "CUDA"]
+tags: ["Machine Learning", "Computer Vision", "Deepfakes", "Python", "CUDA", "Video Processing"]
 link: "/resume/generality_of_facial_forgery_detection_REUNS.pdf"
 fact: ""
 weight: 100
