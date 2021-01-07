@@ -1,37 +1,100 @@
 [
-    {
-        "role":"Software Engineer",
-        "company":"Bluebox",
-        "summary":"Embedded & Backend development for an IoT dashcam device",
-        "tags": [ "Embedded", "Backend", "Linux", "Rust", "Bash", "Git", "Agile", "Docker", "MVC", "RESTful APIs", "Video Processing", "IoT", "CI/CD", "Forlinx", "Raspberry Pi", "I2C", "UART" ],
-        "range":"March 2020 - Nov 2020"
-    },
-    {
-        "role":"Research Assistant",
-        "company":"Personal Robotics Lab",
-        "summary":"Applied computer vision to robotic perception tasks",
-        "tags": [ "Embedded", "Backend", "Linux", "Python", "C++", "Git", "PyTorch", "Tensorflow", "Machine Learning", "Computer Vision", "Reinforced Learning", "ROS", "CUDA" ],
-        "range":"February 2019 - March 2020"
-    },
-    {
-        "role":"Research Assistant",
-        "company":"Pervasive Computing REU @ Temple University",
-        "summary":"Developed methodologies for measuring the generality of facial forgery detection models",
-        "tags": [ "Machine Learning", "Computer Vision", "Linux", "Python", "Bash", "PyTorch", "Docker", "CUDA", "Video Processing" ],
-        "range":"June 2019 - August 2019"
-    },
-    {
-        "role":"Research Assistant",
-        "company":"Autonomous Flight Systems Laboratory",
-        "summary":"Assisted in research related to drones, and managed a team of seven developers for a lab data organization application",
-        "tags": [ "Frontend", "Backend", "Linux", "Windows", "C#", ".NET", "Bash", "Agile", "Scrum", "MVVM", "Arduino", "Raspberry Pi", "Perforce" ],
-        "range":"August 2017 - January 2019"
-    },
-    {
-        "role":"Instructor",
-        "company":"iD Tech Camps",
-        "summary":"Taught machine learning to teenagers",
-        "tags": [ "Teaching", "Machine Learning", "Computer Vision", "Reinforced Learning", "Python", "Jupyter" ],
-        "range":"August 2017 - January 2019"
-    }
+  {
+    "role": "Software Engineer",
+    "company": "Bluebox",
+    "summary": "Embedded & Backend development for an IoT dashcam device",
+    "tags": [
+      "Embedded",
+      "Backend",
+      "Linux",
+      "Rust",
+      "Bash",
+      "Git",
+      "Agile",
+      "Docker",
+      "MVC",
+      "RESTful APIs",
+      "Video Processing",
+      "IoT",
+      "CI/CD",
+      "Forlinx",
+      "Raspberry Pi",
+      "I2C",
+      "UART"
+    ],
+    "range": "March 2020 - Nov 2020"
+  },
+  {
+    "role": "Research Assistant",
+    "company": "Personal Robotics Lab",
+    "summary": "Applied computer vision to robotic perception tasks",
+    "tags": [
+      "Embedded",
+      "Backend",
+      "Linux",
+      "Python",
+      "C++",
+      "Git",
+      "PyTorch",
+      "Tensorflow",
+      "Machine Learning",
+      "Computer Vision",
+      "Reinforced Learning",
+      "ROS",
+      "CUDA"
+    ],
+    "range": "February 2019 - March 2020"
+  },
+  {
+    "role": "Research Assistant",
+    "company": "Pervasive Computing REU @ Temple University",
+    "summary": "Developed methodologies for measuring the generality of facial forgery detection models",
+    "tags": [
+      "Machine Learning",
+      "Computer Vision",
+      "Linux",
+      "Python",
+      "Bash",
+      "PyTorch",
+      "Docker",
+      "CUDA",
+      "Video Processing"
+    ],
+    "range": "June 2019 - August 2019"
+  },
+  {
+    "role": "Research Assistant",
+    "company": "Autonomous Flight Systems Laboratory",
+    "summary": "Assisted in research related to drones, and managed a team of seven developers for a lab data organization application",
+    "tags": [
+      "Frontend",
+      "Backend",
+      "Linux",
+      "Windows",
+      "C#",
+      ".NET",
+      "Bash",
+      "Agile",
+      "Scrum",
+      "MVVM",
+      "Arduino",
+      "Raspberry Pi",
+      "Perforce"
+    ],
+    "range": "August 2017 - January 2019"
+  },
+  {
+    "role": "Instructor",
+    "company": "iD Tech Camps",
+    "summary": "Taught machine learning to teenagers",
+    "tags": [
+      "Teaching",
+      "Machine Learning",
+      "Computer Vision",
+      "Reinforced Learning",
+      "Python",
+      "Jupyter"
+    ],
+    "range": "August 2017 - January 2019"
+  }
 ]

@@ -1,30 +1,84 @@
 [
   {
-    "grouping":"Languages",
-    "skills":[ "Python","Rust","Bash","Java","C","C++","C#","R","HTML/CSS","JavaScript","PHP","Lua","LaTeX" ]
+    "grouping": "Languages",
+    "skills": [
+      "Python",
+      "Rust",
+      "Bash",
+      "Java",
+      "C",
+      "C++",
+      "C#",
+      "R",
+      "HTML/CSS",
+      "JavaScript",
+      "PHP",
+      "Lua",
+      "LaTeX"
+    ]
   },
   {
-    "grouping":"Operating Systems & Tools",
-    "skills":[ "Linux","Windows","Git","MySQL",".NET","Jira","ROS", "CUDA","PyTorch","Tensorflow","Apache","NGINX","Perforce" ]
+    "grouping": "Operating Systems & Tools",
+    "skills": [
+      "Linux",
+      "Windows",
+      "Git",
+      "MySQL",
+      ".NET",
+      "Jira",
+      "ROS",
+      "CUDA",
+      "PyTorch",
+      "Tensorflow",
+      "Apache",
+      "NGINX",
+      "Perforce"
+    ]
   },
   {
-    "grouping":"Virtualization",
-    "skills":[ "Docker","VirtualBox","VMware","KVM","QEMU" ]
+    "grouping": "Virtualization",
+    "skills": [
+      "Docker",
+      "VirtualBox",
+      "VMware",
+      "KVM",
+      "QEMU"
+    ]
   },
   {
-    "grouping":"Embedded",
-    "skills":[ "Arduino","IoT","I2C","UART","Raspberry Pi","Forlinx" ]
+    "grouping": "Embedded",
+    "skills": [
+      "Arduino",
+      "IoT",
+      "I2C",
+      "UART",
+      "Raspberry Pi",
+      "Forlinx"
+    ]
   },
   {
-    "grouping":"Methodologies",
-    "skills":[ "CI/CD","RESTful APIs","MVVM","MVC" ]
+    "grouping": "Methodologies",
+    "skills": [
+      "CI/CD",
+      "RESTful APIs",
+      "MVVM",
+      "MVC"
+    ]
   },
   {
-    "grouping":"Mathematics",
-    "skills":[ "Statistics","Linear algebra","Machine learning" ]
+    "grouping": "Mathematics",
+    "skills": [
+      "Statistics",
+      "Linear algebra",
+      "Machine learning"
+    ]
   },
   {
-    "grouping":"Soft Skills",
-    "skills":[ "Agile","Scrum","Teaching" ]
+    "grouping": "Soft Skills",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "Teaching"
+    ]
   }
 ]
