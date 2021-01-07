@@ -5,7 +5,7 @@
   },
   {
     "grouping":"Operating Systems & Tools",
-    "skills":[ "Linux","Windows","Git","MySQL",".NET","Jira","ROS", "CUDA","PyTorch","Tensorflow","Apache","NGINX" ]
+    "skills":[ "Linux","Windows","Git","MySQL",".NET","Jira","ROS", "CUDA","PyTorch","Tensorflow","Apache","NGINX","Perforce" ]
   },
   {
     "grouping":"Virtualization",
