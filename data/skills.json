@@ -13,7 +13,7 @@
   },
   {
     "grouping":"Embedded",
-    "skills":[ "Raspberry Pi","Arduino","Forlinx" ]
+    "skills":[ "Arduino","IoT","I2C","UART","Raspberry Pi","Forlinx" ]
   },
   {
     "grouping":"Methodologies",
@@ -25,6 +25,6 @@
   },
   {
     "grouping":"Soft Skills",
-    "skills":[ "Agile development","Scrum development","Teaching" ]
+    "skills":[ "Agile","Scrum","Teaching" ]
   }
 ]
