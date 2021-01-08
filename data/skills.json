@@ -18,13 +18,15 @@
     ]
   },
   {
-    "grouping": "Operating Systems & Tools",
+    "grouping": "Software & Tech",
     "skills": [
       "Linux",
       "Windows",
       "Git",
       "MySQL",
       ".NET",
+      "XML",
+      "JSON",
       "Jira",
       "ROS",
       "CUDA",
@@ -52,13 +54,14 @@
       "IoT",
       "I2C",
       "UART",
-      "Raspberry Pi",
-      "Forlinx"
+      "Raspberry Pi"
     ]
   },
   {
     "grouping": "Methodologies",
     "skills": [
+      "Agile",
+      "Scrum",
       "CI/CD",
       "RESTful APIs",
       "MVVM",
@@ -76,8 +79,6 @@
   {
     "grouping": "Soft Skills",
     "skills": [
-      "Agile",
-      "Scrum",
       "Teaching"
     ]
   }
