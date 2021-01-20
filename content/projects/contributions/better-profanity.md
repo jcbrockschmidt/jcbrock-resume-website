@@ -1,13 +1,13 @@
 ---
 title: "Improved Profanity Filter"
-link: "https://github.com/snguyenthanh/better_profanity/pull/17"
+link: "https://github.com/snguyenthanh/better_profanity/commits?author=jcbrockschmidt"
 image: "/resume/img/profanity-filter.png"
 description: "Redesigned searching data-structure to be more memory efficient"
 featured: true
 tags: ["Python", "Optimization"]
 fact: "Enabled the use of large word lists"
 weight: 100
-sitemap: 
+sitemap:
     priority : 0.8
 ---
 
