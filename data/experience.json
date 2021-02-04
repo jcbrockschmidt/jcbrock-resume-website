@@ -2,7 +2,15 @@
   {
     "role": "Software Engineer",
     "company": "Bluebox",
-    "summary": "Embedded & Backend development for an IoT dashcam device",
+    "summary": [
+      "Served working drivers by developing an IoT dashcam that saves money and provides security",
+      "Built an backend/embedded video processing and streaming pipeline from the ground up in Rust",
+      "Designed a REST API to serve mobile users",
+      "Agile development with coordination between software, hardware, product design, and sales teams",
+      "Worked close to the product in a rapidly-evolving environment",
+      "Issue tracking, code reviews, test writing, and documentation authoring",
+      "Maintained CI/CD pipelines using GitLab and Docker"
+    ],
     "tags": [
       "Embedded",
       "Backend",
@@ -27,7 +35,13 @@
   {
     "role": "Research Assistant",
     "company": "Personal Robotics Lab",
-    "summary": "Applied computer vision to robotic perception tasks",
+    "summary": [
+      "Improved real-time food/image detection speed for robotic assisted feeding",
+      "Deployed machine learning models in Python with PyTorch, Tensorflow, and CUDA",
+      "Developed on embedded robotic systems in C++ and Python for ROS",
+      "Investigated curiosity as an intrinsic motivator for reinforced learning",
+      "Worked in a variety of development and research teams"
+    ],
     "tags": [
       "Embedded",
       "Backend",
@@ -48,7 +62,13 @@
   {
     "role": "Research Assistant",
     "company": "Pervasive Computing REU @ Temple University",
-    "summary": "Developed methodologies for measuring the generality of facial forgery detection models",
+    "summary": [
+      "Created novel methodologies for measuring the practicality of facial forgery detection models",
+      "Expanded a facial forgery video dataset by 3 fold",
+      "Independently conducted research and compiled findings into a paper within a 10 week period",
+      "Deployed machine learning models (GANs) and utilized transfer learning in Python with PyTorch",
+      "Administration of a Linux server for running experiments in Docker"
+    ],
     "tags": [
       "Machine Learning",
       "Computer Vision",
@@ -65,7 +85,15 @@
   {
     "role": "Research Assistant",
     "company": "Autonomous Flight Systems Laboratory",
-    "summary": "Assisted in research related to drones, and managed a team of seven developers for a lab data organization application",
+    "summary": [
+      "Led a team of 7 to develop a data management application to consolidate lab reports and inventory",
+      "Designed a drone-mounted LiDAR mapping data collection system used for multiple lab experiments",
+      "Supervised code reviews, weekly meetings, ticket tracking, and weekly meetings",
+      "Full-stack development for a Windows application using C#/.NET and an MVVM pattern",
+      "Established real-time data streams used for drone simulations",
+      "Agile/Scrum development in a rapidly-evolving environment",
+      "Administered and audited Linux servers"
+    ],
     "tags": [
       "Quality Assurance",
       "Frontend",
@@ -87,7 +115,11 @@
   {
     "role": "Instructor",
     "company": "iD Tech Camps",
-    "summary": "Taught machine learning to teenagers",
+    "summary": [
+      "Taught machine learning and programming to teenagers using Jupyter Notebooks",
+      "Image classifications with CNNs",
+      "Reinforced learning with Q-learning and ANNs"
+    ],
     "tags": [
       "Teaching",
       "Machine Learning",
