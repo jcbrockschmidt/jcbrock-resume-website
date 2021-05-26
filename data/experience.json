@@ -1,6 +1,27 @@
 [
   {
     "role": "Software Engineer",
+    "company": "HBO",
+    "summary": [
+      "Building billing and promotions systems",
+      "Implementing RESTful microservices in TypeScript"
+    ],
+    "tags": [
+      "Backend",
+      "TypeScript",
+      "JavaScript",
+      "Docker",
+      "Git",
+      "Bash",
+      "RESTful APIs",
+      "Testing",
+      "CI/CD",
+      "Agile"
+    ],
+    "range": "March 2021 - present"
+  },
+  {
+    "role": "Software Engineer",
     "company": "Bluebox",
     "summary": [
       "Served working drivers by developing an IoT dashcam that saves money and provides security",
