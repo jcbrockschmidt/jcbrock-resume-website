@@ -1,7 +1,7 @@
 [
   {
     "role": "Software Engineer",
-    "company": "HBO",
+    "company": "HBO Max",
     "summary": [
       "Building billing and promotions systems",
       "Implementing RESTful microservices in TypeScript"
