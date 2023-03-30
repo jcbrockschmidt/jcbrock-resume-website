@@ -2,6 +2,8 @@
   {
     "grouping": "Languages",
     "skills": [
+      "TypeScript",
+      "JavaScript",
       "Python",
       "Rust",
       "Bash",
@@ -11,7 +13,6 @@
       "C#",
       "R",
       "HTML/CSS",
-      "JavaScript",
       "PHP",
       "Lua",
       "LaTeX"
